@@ -3,7 +3,7 @@
 % Script to Test ISR Simulator with Multiple Ion Species
 %
 % -------------------------------------------------------------------------
-% Author: Miguel Martínez Ledesma (University of Chile)  
+% Author: Miguel MartÃ­nez Ledesma (University of Chile)  
 % Email: miguel.martinez@ing.uchile.cl
 % Date: 16 February 2016
 % -------------------------------------------------------------------------
@@ -95,7 +95,7 @@ legend(legendString)
 secondselapsed = toc();
 fprintf('Time Elapsed (graphics): %.2f [sec]\n', secondselapsed);
 
-%% CLOSE LIBRARIES
+%% CLOSE LIBRARIES 
 
 % Remove Paths.-
 rmpath('Model_ISR')
