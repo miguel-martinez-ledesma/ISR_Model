@@ -1,6 +1,6 @@
-## ISR Model
+# ISR Model
 Incoherent Scatter Radar Model of Spectrum
-(Without collisions nor magnetic field effects)
+Without collisions nor magnetic field effects
 Based on [Kudeki and Milla, 2011]
 
 ### Verification
